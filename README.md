@@ -1,2 +1,2 @@
 # contrlo-panel
-Design a control panel
+Design a control panel as a web page 
